@@ -1,4 +1,10 @@
-.swp
 .DS_Store
+.swp
 node_modules
 package-lock.json
+.env
+dist/**/*.*
+!dist/readme.md
+staticDist/**/*.*
+!staticDist/readme.md
+false
